@@ -1,3 +1,21 @@
+.icon {
+	display: inline-block;
+	width: 2em;
+	height: 2em;
+	font-size: 30px;
+	fill: #D7DCE2;
+	transition: all .2s ease-in-out;
+}
+
+html, body {
+	height: 100%;
+}
+
+body {
+	background: #ffeff5;
+	position: relative;
+}
+
 .player {
 	position: absolute;
 	top: 50%;
